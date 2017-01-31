@@ -42,7 +42,9 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
-
+#nose{
+  top:120px; left:132px;
+}
 
 
 
@@ -52,7 +54,9 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
+#glasses{
+  top:50px; left:100px;
+}
 
 
 
@@ -67,7 +71,9 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache{
+  top:141px; left:92px;
+}
 
 
 
