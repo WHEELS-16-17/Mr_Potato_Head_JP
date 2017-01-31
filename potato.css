@@ -32,11 +32,14 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
-
-
+#eyes_image{
+  top: 60px; left: 131px;}
 
 
 /* Insert CSS for mouth below this line*/
+
+#mouth_image{
+  top: 40;}
 
 
 
